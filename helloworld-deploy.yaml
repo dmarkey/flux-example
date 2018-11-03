@@ -4,7 +4,7 @@ metadata:
   name: helloworld
 spec:
   minReadySeconds: 5
-  replicas: 0
+  replicas: 50
   template:
     metadata:
       labels:
